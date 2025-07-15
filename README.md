@@ -1,7 +1,7 @@
 <h1 align="center" style="color:#2c3e50;">👨‍💼 Employee Management System</h1>
 
 <p align="center">
-  <img src="./src/assets/Github-Images/Preview-Image.png" alt="EMS Preview" width="600"/>
+  <img src="./empMan.jpg" alt="EMS Preview" width="600"/>
 </p>
 
 <p align="center">
