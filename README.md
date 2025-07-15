@@ -1,7 +1,7 @@
 <h1 align="center" style="color:#2c3e50;">👨‍💼 Employee Management System</h1>
 
 <p align="center">
-  <img src="./empMan.jpg" alt="EMS Preview" width="600"/>
+  <img src="./empMan.jpg" alt="EMS Preview" width="700"/>
 </p>
 
 <p align="center">
@@ -60,3 +60,34 @@ employee-management-frontend/
 │   └── index.html
 ├── angular.json
 ├── package.json
+```
+⚙️ Getting Started
+1️⃣ Clone the Repository
+```
+git clone https://github.com/your-username/employee-management-frontend.git
+cd employee-management-frontend
+```
+2️⃣ Install Dependencies
+```
+npm install
+```
+3️⃣ Run Locally
+```
+ng serve
+```
+App will run at:
+➡️ http://localhost:4200
+
+🌍 API Connection
+Make sure your backend Spring Boot application is running at http://localhost:8080.
+
+If needed, update the API URL in your service files (like employee.service.ts) to match the backend host.
+
+👤 Contributor
+<table> <tr> <td align="center"> <img src="https://avatars.githubusercontent.com/u/164065390?v=4" width="80px;" alt="Danish Rizwan"/> <br /><sub><b>Danish Rizwan</b></sub><br /> <sub>Frontend Developer</sub> </td> </tr> </table>
+📬 Contact
+📧 Email: rdanishrizwan@example.com
+💼 Project: Employee Management System
+🌐 Location: India
+
+---
