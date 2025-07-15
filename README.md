@@ -1,59 +1,62 @@
-# FrontEndEmployeeManagement
+<h1 align="center" style="color:#2c3e50;">👨‍💼 Employee Management System</h1>
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.15.
+<p align="center">
+  <img src="./src/assets/Github-Images/Preview-Image.png" alt="EMS Preview" width="600"/>
+</p>
 
-## Development server
+<p align="center">
+  <b>Modern frontend for managing employee data via a Spring Boot & MySQL backend.</b><br>
+  Built with Angular and Bootstrap, it allows CRUD operations through a clean and responsive UI.
+</p>
 
-To start a local development server, run:
+---
+
+## 📄 About the Project
+
+The **Employee Management System (EMS)** is a full-stack web application designed to manage employee records.  
+This repository contains the **frontend** of the project, which interacts with a RESTful API built using Spring Boot and MySQL.
+
+---
+
+## 🌟 Features
+
+- 📋 **List All Employees**  
+  View all employee records in a structured table format.
+
+- ➕ **Add New Employee**  
+  Submit a form to create a new employee record.
+
+- ✏️ **Update Employee**  
+  Edit and update existing employee information.
+
+- ❌ **Delete Employee**  
+  Remove an employee from the system.
+
+- 🔍 **Responsive Design**  
+  Fully mobile-friendly and optimized layout.
+
+---
+
+## 🛠️ Tech Stack
+
+- 🎯 **Framework:** Angular (v16+ with standalone components)
+- 🎨 **Styling:** Bootstrap 5
+- 🔗 **Backend:** Spring Boot + MySQL  
+  ➡️ [Backend GitHub Repository](https://github.com/your-username/EmployeeManagementSystemApplication-Backend)
+
+---
+
+## 📁 Project Structure
 
 ```bash
-ng serve
-```
-
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
-
-## Code scaffolding
-
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
-
-```bash
-ng generate component component-name
-```
-
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
-
-```bash
-ng generate --help
-```
-
-## Building
-
-To build the project run:
-
-```bash
-ng build
-```
-
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
-
-## Running unit tests
-
-To execute unit tests with the [Karma](https://karma-runner.github.io) test runner, use the following command:
-
-```bash
-ng test
-```
-
-## Running end-to-end tests
-
-For end-to-end (e2e) testing, run:
-
-```bash
-ng e2e
-```
-
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
-
-## Additional Resources
-
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+employee-management-frontend/
+├── src/
+│   ├── app/
+│   │   ├── components/
+│   │   ├── services/
+│   ├── assets/
+│   │   └── Github-Images/
+│   │       └── Preview-Image.png
+│   └── index.html
+├── angular.json
+├── package.json
