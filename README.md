@@ -42,7 +42,7 @@ This repository contains the **frontend** of the project, which interacts with a
 - 🎯 **Framework:** Angular (v16+ with standalone components)
 - 🎨 **Styling:** Bootstrap 5
 - 🔗 **Backend:** Spring Boot + MySQL  
-  ➡️ [Backend GitHub Repository](https://github.com/your-username/EmployeeManagementSystemApplication-Backend)
+  ➡️ [Backend GitHub Repository](https://github.com/rockyhans/EmployeeManagementSystemApplication-Backend)
 
 ---
 
