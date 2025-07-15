@@ -55,8 +55,6 @@ employee-management-frontend/
 │   │   ├── components/
 │   │   ├── services/
 │   ├── assets/
-│   │   └── Github-Images/
-│   │       └── Preview-Image.png
 │   └── index.html
 ├── angular.json
 ├── package.json
@@ -86,8 +84,11 @@ If needed, update the API URL in your service files (like employee.service.ts) t
 👤 Contributor
 <table> <tr> <td align="center"> <img src="https://avatars.githubusercontent.com/u/164065390?v=4" width="80px;" alt="Danish Rizwan"/> <br /><sub><b>Danish Rizwan</b></sub><br /> <sub>Frontend Developer</sub> </td> </tr> </table>
 📬 Contact
+<br>
 📧 Email: rdanishrizwan@example.com
+<br>
 💼 Project: Employee Management System
+<br>
 🌐 Location: India
 
 ---
